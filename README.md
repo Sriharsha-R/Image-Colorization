@@ -1,5 +1,13 @@
 # Image Colorization
 
+## Group 20
+
+**Sri Harsha R** (224101048)<br>
+**Subramanian V** (224101050)<br> 
+**Neha Dhuttargaon** (224101037)<br>
+**Binayak Behera** (224101014)<br>
+**Pratik Rana** (224101040)
+
 ## Project Description
 
 Our project focuses on colorizing gray-scale images using state-of-the-art deep learning techniques. Taking inspiration from recent advancements in this field, we have implemented a model that combines a deep Convolutional Neural Network (CNN) trained from scratch with high-level features extracted from the pre-trained Inception-ResNet-v2 model. By utilizing a fully convolutional architecture, our encoder-decoder model is capable of effectively processing images of varying sizes and aspect ratios.
